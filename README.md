@@ -1,5 +1,5 @@
 # Data-Insights-and-Predictive-Modeling-with-Python
-## Overview
+# Overview
 An exploratory and predictive analysis project using Python, featuring data processing, visualization, and machine learning with logistic regression. Includes comprehensive steps for model tuning and evaluation.
 
 This project involves data analysis or machine learning tasks utilizing a structured approach to load, process, and analyze data. It leverages Python libraries such as pandas, numpy, plotnine, and sklearn for data manipulation, visualization, and applying machine learning techniques. The project aims to provide insights into the dataset through exploratory data analysis and predictive modeling.
