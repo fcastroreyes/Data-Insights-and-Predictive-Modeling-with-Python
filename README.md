@@ -20,4 +20,8 @@ The data used in this project is loaded from an external URL. Ensure you have in
 - Model training and evaluation using a logistic regression classifier.
 - Hyperparameter tuning and cross-validation to enhance model performance.
 
+# Contributing
+- Interested in contributing? Fork the repository, commit your improvements, and submit a pull request.
 
+# License
+- This project is shared under the MIT License.
